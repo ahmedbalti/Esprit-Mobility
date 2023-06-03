@@ -24,7 +24,7 @@ Flyer :
 
 Commercial video :
 
-https://www.youtube.com/watch?v=JS0b-QAObjk&t=
+[Click here to watch the commercial video](https://www.youtube.com/watch?v=JS0b-QAObjk&t=)
 
 # Features
 
