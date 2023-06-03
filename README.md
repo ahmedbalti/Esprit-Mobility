@@ -26,9 +26,7 @@ Flyer :
 
 Commercial video :
 
-<div style="text-align: center;">
-  [Click here to watch the commercial video](https://www.youtube.com/watch?v=JS0b-QAObjk&t=)
-</div>
+[Click here to watch the commercial video](https://www.youtube.com/watch?v=JS0b-QAObjk&t=)
 
 # Features
 
