@@ -20,7 +20,7 @@ Esprit Mobility is built using the following technologies:
 
 Flyer :
 
-<img src="https://github.com/ahmedbalti/Esprit-Mobility/assets/74995162/6086e23a-f8b0-4a17-bd45-98bc1db70ff5" alt="Flyer" style="width: 100px; height: 400px;">
+<img src="https://github.com/ahmedbalti/Esprit-Mobility/assets/74995162/6086e23a-f8b0-4a17-bd45-98bc1db70ff5" alt="Flyer" style="width: 250px; height: 400px;">
 
 
 ![flyer](https://github.com/ahmedbalti/Esprit-Mobility/assets/74995162/6086e23a-f8b0-4a17-bd45-98bc1db70ff5)
