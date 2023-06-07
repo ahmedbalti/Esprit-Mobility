@@ -23,13 +23,13 @@ Esprit Mobility is built using the following technologies:
 # Flyer and Commercial Video
 
 - Flyer :
+<p align="center">
+  <img src="https://github.com/ahmedbalti/Esprit-Mobility/assets/74995162/4c3057dd-d59c-4325-a5f3-938f7c99d212" alt="325336726_2523849831114626_4872293133776882459_n">
+</p>
 
-<div style="display: flex; justify-content: center;">
-  <img src="(https://github.com/ahmedbalti/Esprit-Mobility/assets/74995162/1538eab9-828d-481c-9c8a-da85450524b3" alt="Flyer" style="width: 200px; height: 300px;">
-</div>
-
-![flyer](https://github.com/ahmedbalti/Esprit-Mobility/assets/74995162/107f30e4-144f-4f8b-bfdd-b2dc0db49034)
-
+<p align="center">
+  <img src="https://github.com/ahmedbalti/Esprit-Mobility/assets/74995162/107f30e4-144f-4f8b-bfdd-b2dc0db49034" alt="flyer">
+</p>
 
 - Commercial video :
 
