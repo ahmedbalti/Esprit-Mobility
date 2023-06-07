@@ -1,8 +1,6 @@
 # Esprit-Mobility
-![325336726_2523849831114626_4872293133776882459_n](https://github.com/ahmedbalti/Esprit-Mobility/assets/74995162/4c3057dd-d59c-4325-a5f3-938f7c99d212)
-
 <p align="center">
-  <img src="![325336726_2523849831114626_4872293133776882459_n](https://github.com/ahmedbalti/Esprit-Mobility/assets/74995162/4c3057dd-d59c-4325-a5f3-938f7c99d212)" width="400">
+  <img src="https://github.com/ahmedbalti/Esprit-Mobility/assets/74995162/4c3057dd-d59c-4325-a5f3-938f7c99d212" alt="325336726_2523849831114626_4872293133776882459_n">
 </p>
 
 
