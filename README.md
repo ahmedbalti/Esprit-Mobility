@@ -1,6 +1,10 @@
 # Esprit-Mobility
 ![325336726_2523849831114626_4872293133776882459_n](https://github.com/ahmedbalti/Esprit-Mobility/assets/74995162/2e917f57-adf2-4aa0-9251-bc6a7250090f) 
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61552366/238189892-820dd8e4-d908-439b-8ea3-e008dac869e0.png" width="400">
+</p>
+![325336726_2523849831114626_4872293133776882459_n](https://github.com/ahmedbalti/Esprit-Mobility/assets/74995162/89265701-e4f5-428a-a8e6-598dc18b5e3a)
 
 
 Esprit Mobility is an innovative application developed using Spring Boot, Angular, and REST API technologies. The aim of Esprit Mobility is to facilitate international mobility for students and teachers. The application provides a range of features and functionalities to enhance the student's experience and streamline the process of studying abroad.
