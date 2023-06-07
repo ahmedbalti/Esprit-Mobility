@@ -35,7 +35,7 @@ Esprit Mobility is built using the following technologies:
 
 - The demonstration video of the application
 
-[Click here to watch the commercial video]((https://youtu.be/BJqb01hm9Ww))
+[Click here to watch the commercial video](https://www.youtube.com/watch?v=BJqb01hm9Ww)
 
 
 # Features
