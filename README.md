@@ -25,22 +25,9 @@ Esprit Mobility is built using the following technologies:
 - Flyer :
 
 <p align="center">
-  <img src="https://github.com/ahmedbalti/Esprit-Mobility/assets/74995162/107f30e4-144f-4f8b-bfdd-b2dc0db49034" alt="flyer" width="210" height="290>
+  <img src="https://github.com/ahmedbalti/Esprit-Mobility/assets/74995162/107f30e4-144f-4f8b-bfdd-b2dc0db49034" alt="flyer" >
 </p>
-<br>
-<hr>                     
-                                                                                                                                                
-                                                                                                                                                
-                        
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
+                                                                                                        
 - Commercial video :
 
 [Click here to watch the commercial video](https://www.youtube.com/watch?v=JS0b-QAObjk&t=)
